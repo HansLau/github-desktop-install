@@ -5,7 +5,7 @@ release_url="https://github.com/shiftkey/desktop/releases/latest"
 installed=0
 installed_version="n.A."
 architecture=$(uname -m)
-mode="install"
+mode="uninstall"
 verbose=0
 
 print_usage() {
